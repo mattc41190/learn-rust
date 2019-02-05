@@ -1,4 +1,4 @@
-![rusty-rustacean][rusty.jpg]
+![alt text](rusty.jpg "rustacean")
 
 # learn-rust
 
