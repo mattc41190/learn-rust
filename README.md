@@ -1,4 +1,4 @@
-![alt text](rusty.png "rustacean")
+![alt text](rusty-md.png "rustacean")
 
 # learn-rust
 
