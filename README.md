@@ -1,3 +1,5 @@
+![rusty-rustacean][rusty.jpg]
+
 # learn-rust
 
 ## What is this?
